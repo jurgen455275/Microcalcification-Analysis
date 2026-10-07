@@ -1,0 +1,6 @@
+ejemplo,image_id,ACR,Bi-Rads,laterality,view,k,detected,tp,fp,archivo
+1,22580218,2,1,L,CC,70,False,0,0,ejemplo_1_22580218.png
+2,50996325,1,1,L,MLO,70,False,0,0,ejemplo_2_50996325.png
+3,22670809,1,4a,R,CC,70,True,2,3,ejemplo_3_22670809.png
+4,22579916,3,4c,L,MLO,70,False,0,0,ejemplo_4_22579916.png
+5,20587054,2,4c,R,CC,70,False,0,2,ejemplo_5_20587054.png

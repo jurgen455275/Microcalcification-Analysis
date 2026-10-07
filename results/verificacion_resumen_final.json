@@ -1,0 +1,28 @@
+{
+  "total_images": 410,
+  "gt_positive_combined": 315,
+  "gt_positive_individual": 313,
+  "gt_cluster_images": 21,
+  "gt_cluster_only_images": 2,
+  "gt_negative_combined": 95,
+  "gt_calcification_rois": 7143,
+  "gt_cluster_rois": 27,
+  "tp": 276,
+  "tn": 8,
+  "fp": 87,
+  "fn": 39,
+  "accuracy": 0.6926829268292682,
+  "sensitivity_presence": 0.8761904761904762,
+  "specificity_presence": 0.08421052631578947,
+  "precision_presence": 0.7603305785123967,
+  "f1_presence": 0.8141592920353983,
+  "localized_hits_individual": 51,
+  "localized_hit_rate_individual": 0.16293929712460065,
+  "total_cpp_candidates": 1142,
+  "total_cpp_candidates_on_gt": 107,
+  "total_cpp_candidates_off_gt": 1035,
+  "cluster_only_ids": [
+    "20587054",
+    "20587080"
+  ]
+}

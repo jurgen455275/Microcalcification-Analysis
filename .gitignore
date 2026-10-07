@@ -1,0 +1,27 @@
+# Dataset y datos médicos
+data/INbreast Release 1.0/
+data/**/*.dcm
+data/**/*.xml
+
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Productos de compilación regenerables
+build/
+bin/windows/*.exe
+bin/windows/*.dll
+*.o
+*.obj
+
+# Archivos temporales de Office y del sistema
+~$*
+.DS_Store
+Thumbs.db
+
+# Resultados parciales regenerables
+results/verificacion_por_imagen.csv
+results/verificacion_resumen.json

@@ -1,0 +1,3 @@
+base,sensibilidad_imagen,fp_por_imagen,k,alcance
+mini-MIAS,0.860000,,,Valor informado en el protocolo; FP/imagen no disponible en los archivos suministrados
+INbreast,0.105431,1.885366,70.000000,410 imágenes; evaluación a nivel de imagen con el CSV generado por Python
